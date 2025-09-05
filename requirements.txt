@@ -1,0 +1,5 @@
+pymongo
+dnspython
+tkintertable
+Flask==2.3.2
+pymongo==4.4.1
